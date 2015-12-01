@@ -11,7 +11,7 @@ add the following
       }
     }
 
-    compile 'com.ubicall.sand:ubicall.lite:1.0.1'
+    compile 'com.ubicall.sand:ubicall.lite:1.1.6'
 
 
 Initialization of SDK
